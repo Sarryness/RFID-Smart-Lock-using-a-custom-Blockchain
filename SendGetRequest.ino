@@ -1,7 +1,3 @@
-/*
-Problem Statement: Upload random data to your channel on ThingSpeak
-Developed by: Rahul Shrivastava
-*/
 
 //old test code
 #include <ESP8266WiFiMulti.h>
