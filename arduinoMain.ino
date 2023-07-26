@@ -1,3 +1,4 @@
+//old code
 #include <SPI.h>
 #include <MFRC522.h>
 #include <LiquidCrystal.h>
