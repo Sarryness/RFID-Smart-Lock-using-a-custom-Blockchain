@@ -138,7 +138,7 @@ void wificonnect()
         Serial.println("Error in WiFi connection");
         return "Error";
       }
-      delay(16000); // interval
+      delay(16000); 
   }
 
 void GETsend(String data)
@@ -173,5 +173,5 @@ void GETsend(String data)
       {
         Serial.println("Error in WiFi connection");
       }
-      delay(16000); // interval
+      delay(16000); 
 }
